@@ -1,0 +1,21 @@
+.header {
+  padding: 15px 0;
+  background: #4d64f8;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.site-logo {
+  color: red;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  list-style: none;
+}
